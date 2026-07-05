@@ -1,0 +1,16 @@
+# Môi trường ảo
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Dữ liệu nghiên cứu (S3DIS)
+data/
+*.zip
+*.obj
+*.ply
+
+# Cấu hình IDE
+.vscode/
+.idea/
+.DS_Store
